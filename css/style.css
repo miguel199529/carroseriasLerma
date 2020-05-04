@@ -1286,5 +1286,5 @@ footer .credits a {
    width: 100%;
 }
 .parrafo-card-gallery {
-margin-bottom: 0;
+margin-bottom: 0 !important;
 }
