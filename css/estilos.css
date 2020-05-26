@@ -128,3 +128,21 @@
   width:100%;
   position:absolute;
 }
+.logo_producto {
+  max-width: 90%;
+  margin: 18px;
+  background-color: white;
+}
+.custom-iframe-conten {
+  background-color: black;
+  text-align: center;
+}
+.custom-iframe{
+    max-width: 82%;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: 75% !important;
+  }
+}
