@@ -1092,7 +1092,7 @@ footer .credits a {
 //--//-->   CONtaCT FORM
 ======================================*/
 
-#sendmessage {
+#sendmessage, #sendmessageW {
   color: #0078ff;
   border: 1px solid #0078ff;
   display: none;
@@ -1113,6 +1113,7 @@ footer .credits a {
 }
 
 #sendmessage.show,
+#sendmessageW.show,
 #errormessage.show,
 .show {
   display: block;
