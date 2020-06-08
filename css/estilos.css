@@ -147,7 +147,9 @@
 .align-btns {
     float: right;
 }
-
+.btn-modal-gal {
+    margin-left: -12px;
+}
 @media (min-width: 576px) {
   .modal-dialog {
     max-width: 75% !important;
