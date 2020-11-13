@@ -1054,6 +1054,21 @@ a:hover {
   color: #fff;
 }
 
+.text-align-center {
+  text-align: center;
+}
+
+.iso-text {
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.iso {
+  width: 120px;
+  margin: auto;
+}
+
 /*======================================
 //--//-->   CONTACT
 ======================================*/
