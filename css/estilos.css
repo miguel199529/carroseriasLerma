@@ -1,167 +1,180 @@
 @font-face {
-  font-family: "lerma";
-  src: url("../font/LogoLerma.otf");
+    font-family: "lerma";
+    src: url("../font/LogoLerma.otf");
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #B61F24;
-}
-.cursor-pointer{
-  cursor: pointer;
-}
-.img-logo-lerma{
-  width: 50%
-}
-.img-porductos{
-  width: 60%
+    color: #B61F24;
 }
 
-.img-porductos1{
-  width: 50%
+.cursor-pointer {
+    cursor: pointer;
 }
 
-.img-porductos2{
-  width: 40%
+.img-logo-lerma {
+    width: 50%
+}
+
+.img-porductos {
+    width: 60%
+}
+
+.img-porductos1 {
+    width: 50%
+}
+
+.img-porductos2 {
+    width: 40%
 }
 
 .lerma {
-  font-family: "lerma";
-  font-size: 5ch;
+    font-family: "lerma";
+    font-size: 5ch;
 }
 
 .navbar-b {
-  background-color: #000;
+    background-color: #000;
 }
 
 .navbar-b {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
 }
 
 .navbar-brand {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #B61F24;
+    color: #B61F24;
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #B61F24;
+    color: #B61F24;
 }
 
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #B61F24;
+    color: #B61F24;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #B61F24;
+    background-color: #B61F24;
 }
 
 .title-left:before {
-  background-color: #B61F24;
+    background-color: #B61F24;
 }
 
-.form-group > input{
-  border: 1px solid #B61F24;
+.form-group>input {
+    border: 1px solid #B61F24;
 }
 
-.form-group > textarea{
-  border: 1px solid #B61F24;
+.form-group>textarea {
+    border: 1px solid #B61F24;
 }
 
 .button-big {
-  padding: .2rem;
-  font-size: 1.2rem;
-  width: 10rem;
-  background-color: #B61F24;
+    padding: .2rem;
+    font-size: 1.2rem;
+    width: 10rem;
+    background-color: #B61F24;
 }
 
 .button-big:hover {
-  background-color: #B61F24;
+    background-color: #B61F24;
 }
 
-.list-ico span{
-  color: #B61F24;
+.list-ico span {
+    color: #B61F24;
 }
 
 .socials .ico-circle {
-  box-shadow: 0 0 0 3px #B61F24;
+    box-shadow: 0 0 0 3px #B61F24;
 }
 
 .overlay-mf {
-  background-color: #B61F24;
+    background-color: #B61F24;
 }
 
 .back-to-top {
-  background-color: #B61F24;
+    background-color: #B61F24;
 }
 
-.logo-pacueco{
-  width: 15%;
+.logo-pacueco {
+    width: 15%;
 }
 
 .service-box .s-description {
-  height: 100px;
-  overflow: auto;
-  text-align: justify !important;
-  font-size: 13px;
+    height: 100px;
+    overflow: auto;
+    text-align: justify !important;
+    font-size: 13px;
 }
 
 .work-content .w-more {
-  height: 110px;
-  overflow: auto;
+    height: 110px;
+    overflow: auto;
 }
 
-.map-responsive{
-  overflow:hidden;
-  padding-bottom:56.25%;
-  position:relative;
-  height:0;
-  margin-bottom: 10px;
+.map-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+    margin-bottom: 10px;
 }
-.map-responsive iframe{
-  left:0;
-  top:0;
-  height:100%;
-  width:100%;
-  position:absolute;
+
+.map-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
+
 .logo_producto {
-  max-width: 90%;
-  margin: 18px;
-  background-color: white;
+    max-width: 90%;
+    margin: 18px;
+    background-color: white;
 }
+
 .custom-iframe-conten {
-  background-color: black;
-  text-align: center;
+    background-color: black;
+    text-align: center;
 }
-.custom-iframe{
+
+.custom-iframe {
     max-width: 82%;
 }
 
 .modal-title-width {
     width: 100%;
 }
+
 .align-btns {
     float: right;
 }
+
 .btn-modal-gal {
     margin-left: -12px;
 }
 
 .ul-list {
-  list-style-type: none;
-  padding: 0;
+    list-style-type: none;
+    padding: 0;
 }
 
 .p-no-margin {
-  margin-bottom: 0;
+    margin-bottom: 0;
+}
+
+.sc-7dvmpp-1 {
+    display: none !important;
 }
 
 @media (min-width: 576px) {
-  .modal-dialog {
-    max-width: 75% !important;
-  }
+    .modal-dialog {
+        max-width: 75% !important;
+    }
 }
