@@ -173,6 +173,14 @@
     display: none !important;
 }
 
+/**/
+.iframe-carousel{
+    width: 100%;
+    overflow: hidden;
+    min-height: 195px;
+}
+/**/
+
 @media (min-width: 576px) {
     .modal-dialog {
         max-width: 75% !important;
