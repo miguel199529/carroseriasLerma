@@ -3,6 +3,21 @@
     src: url("../font/LogoLerma.otf");
 }
 
+.indica a{
+    background-color: #B61F24 !important;
+    width: 2.8rem;
+    height: 2.8rem;
+    text-align: center;
+    position: inherit !important;
+}
+
+.carouselCli {
+    margin-top: 2rem;
+    min-height: 3rem;
+    text-align: center;
+    position: relative !important;
+}
+
 .navbar-b.navbar-reduce .nav-link:hover {
     color: #B61F24;
 }
@@ -172,6 +187,14 @@
 .sc-7dvmpp-1 {
     display: none !important;
 }
+
+/**/
+.iframe-carousel{
+    width: 100%;
+    overflow: hidden;
+    min-height: 195px;
+}
+/**/
 
 @media (min-width: 576px) {
     .modal-dialog {
