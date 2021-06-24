@@ -36,6 +36,10 @@ body {
   width: 25%;
 }
 
+.carousel-control-next, .carousel-control-prev {
+  width: 11%;
+}
+
 .carousel-control-prev-icon, .carousel-control-next-icon {
   background-color: gray;
 }
